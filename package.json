@@ -1,0 +1,23 @@
+{
+  "name": "ical-parser",
+  "version": "1.0.0",
+  "description": "parse ics files to javascript object and create ics files from json or js object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMGonzalezR/ical-parser.git"
+  },
+  "keywords": [
+    "ical",
+    "parser"
+  ],
+  "author": "Juan M. Gonzalez R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMGonzalezR/ical-parser/issues"
+  },
+  "homepage": "https://github.com/JMGonzalezR/ical-parser#readme"
+}
