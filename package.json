@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/JMGonzalezR/ical-parser/issues"
   },
-  "homepage": "https://github.com/JMGonzalezR/ical-parser#readme"
+  "homepage": "https://github.com/JMGonzalezR/ical-parser#readme",
+  "devDependencies": {
+    "ical-generator": "^0.2.7",
+    "rrule": "^2.1.0"
+  }
 }
